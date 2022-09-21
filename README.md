@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vincentcheri
-- 👀 I’m interested in python,php,linux.
+- 👀 I’m interested in anything tech. 
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on projects
 
