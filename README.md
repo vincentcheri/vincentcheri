@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vincentcheri
-- 👀 I’m interested in anything tech. 
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in anything tech and using it to solve problems.
+- 🌱 I’m currently learning software engineering @alx.
+- 💞️ I’m looking for interns and also to collaborate on projects.
+- 💞️ I love to play guitar and talk with friends and family.
 
 
 <!---
