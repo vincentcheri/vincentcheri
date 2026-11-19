@@ -24,7 +24,7 @@ I'm actively open to opportunities in:
 - Cloud Support Engineering
 - Linux System Administration
 - Infrastructure Support
-- DevOps Freelance / Contract Opportunities
+- DevOps Freelance
 
 Open to remote and on-site opportunities and roles.
 
