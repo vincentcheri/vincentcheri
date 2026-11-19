@@ -32,11 +32,3 @@ Open to remote and on-site opportunities and roles.
 
 - TS Academy – DevOps Engineering Programme
 - ALX – Software Engineering Programme (coursework completed; reached final project stage)
-
-### 📫 Let's Connect
-
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/vincent-akanbi-johnson/)
-- **Email:** [Send me an email](vj9783@gmail.com)
-- **GitHub:** [https://github.com/vincentcheri](https://github.com/vincentcheri)
-
-Always learning, building, troubleshooting, and improving. 🚀
